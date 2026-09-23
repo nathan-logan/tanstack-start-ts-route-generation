@@ -9,7 +9,6 @@ parse its own output as TypeScript.
 
 ```bash
 pnpm install
-touch src/routes/api/foo.ts src/routes/api/bar.tsx
 pnpm generate-routes
 ```
 
